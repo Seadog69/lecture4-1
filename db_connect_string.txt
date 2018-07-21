@@ -1,0 +1,5 @@
+https://www.postgresql.org/docs/9.2/static/libpq-connect.html#LIBPQ-CONNSTRING
+
+postgresql://[user[:password]@][netloc][:port][/dbname][?param1=value1&...]
+
+db_connect_string = "postgresql://postgres:!JwQ=y92@localhost:5432/postgres"
